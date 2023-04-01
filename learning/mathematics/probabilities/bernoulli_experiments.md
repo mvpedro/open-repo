@@ -1,0 +1,4 @@
+[[basic_concepts_and_properties_of_bernoulli_trials]]
+[[bernoulli_distribution_and_probability_mass_function]]
+[[mean_and_variance_of_bernoulli_distributions]]
+[[using_bernoulli_distributions_to_model_real_world_phenomena]]

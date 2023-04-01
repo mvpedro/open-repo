@@ -1,0 +1,3 @@
+[[binomial_coefficients_and_binomial_probability]]
+[[mean_and_variance_of_binomial_distributions]]
+[[using_binomial_distributions_to_model_real_world_phenomena]]
